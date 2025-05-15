@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Riya Verma</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="left">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaverma04&label=Profile%20views&color=0e75b6&style=flat" alt="riyaverma04" /> </p>
 
